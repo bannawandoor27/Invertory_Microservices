@@ -1,0 +1,25 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Editor/IDE-related
+.vscode/
+.idea/
+
+# Dependency directories
+venv/
+env/
+.env/
+
+# Compiled Python bytecode
+*.pyc
+
+# Log files
+*.log
+
+# Other miscellaneous files
+.DS_Store
